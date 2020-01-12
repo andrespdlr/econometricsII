@@ -1,4 +1,4 @@
-# Econometría II
+# Econometría II | Universidad Panamericana 2020
 
 <p>Este repositorio contiene 3 directorios</p>
 
