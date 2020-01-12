@@ -5,17 +5,14 @@
 | directorios  |
 | ------------ |
 | books  	 |
-| lectures  	 |
+| code  	 |
 | databases  	 |
+| lectures  	 |
 
 
 ## Requirements
 
-- Nodejs and NPM
 - Python >= 3.5 (Anaconda environment is recommended)
-- PostgreSQL database engine
-- Twitter account to get access tokens
-- New python environment: `conda create --name myenv`
 
 
 **Python requirements**
