@@ -1,11 +1,12 @@
 # Econometría II
 
-<p>This repository contains 2 main directories</p>
+<p>Este repositorio contiene 3 directorios</p>
 
-| directories  |
+| directorios  |
 | ------------ |
-| Api 			   |
-| Dashboard  	 |
+| books  	 |
+| lectures  	 |
+| databases  	 |
 
 
 ## Requirements
