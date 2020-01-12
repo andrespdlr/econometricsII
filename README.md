@@ -1,4 +1,4 @@
-# Social Media Dashboard
+# Econometría II
 
 <p>This repository contains 2 main directories</p>
 
