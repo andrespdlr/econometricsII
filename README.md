@@ -1,14 +1,14 @@
 # Econometría II | Universidad Panamericana 2020
 
-<p>Este repositorio contiene 3 directorios</p>
+<p>Este repositorio contiene 4 directorios</p>
 
-| directorios  |
-| ------------ |
-| books  	 |
-| code  	 |
-| databases  	 |
-| lectures  	 |
-
+| directorios    |
+| -------------- |
+| 1. books  	 |
+| 2. code  	 |
+| 3. databases   |
+| 4. lectures  	 |
+| -------------- |
 
 ## Requirements
 
