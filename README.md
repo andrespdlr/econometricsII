@@ -8,7 +8,6 @@
 | 2. code  	 |
 | 3. databases   |
 | 4. lectures  	 |
-| -------------- |
 
 ## Requirements
 
